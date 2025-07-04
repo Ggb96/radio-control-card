@@ -1,0 +1,7 @@
+name: "Radio Control Card"
+filename: "radio-control-card.js"
+description: "Cartão personalizado para controle de rádios no Home Assistant"
+domain: "lovelace"
+codeowners:
+  - "@Ggb96"
+version: "1.0.0"
