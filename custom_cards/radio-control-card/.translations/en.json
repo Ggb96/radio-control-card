@@ -1,0 +1,13 @@
+{
+  "state.default": "Unknown",
+  "state.playing": "Playing",
+  "state.paused": "Paused",
+  "state.stopped": "Stopped",
+  "ui.radio_label": "📻 Select Radio",
+  "ui.destino_label": "🖥️ Playback Destination",
+  "ui.volume_label": "🔊 Volume",
+  "ui.estado_atual": "Current Status",
+  "ui.play": "▶️ Play",
+  "ui.pause": "⏸️ Pause",
+  "ui.stop": "⏹️ Stop"
+}
