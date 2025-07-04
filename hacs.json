@@ -1,0 +1,7 @@
+{
+  "name": "Radio Control Card",
+  "content_in_root": false,
+  "domains": ["lovelace"],
+  "country": "BR",
+  "homeassistant": "2024.0.0"
+}
